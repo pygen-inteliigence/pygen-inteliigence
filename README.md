@@ -1,7 +1,13 @@
 ## Hi there 👋
 
-I am Ameer Hamza Khan, a 9th-grade student at Delhi Model Virtual School (DMVS), driven by a deep passion for technology and innovation.<br><br>As the founder of PyGen & Co., I lead its child companies PyGen Labs and PyGen Institute, each focused on different facets of digital growth and innovation. PyGen Labs is dedicated to launching apps and tools, while PyGen Institute promotes learning and development.<br><br>Currently, my active products include:<br><br>ProjXs: A productivity platform designed to manage notes and ideas effectively.<br>SOLVEXA: A SaaS-based digital solutions agency specializing in website creation and other online services.
+I am Ameer Hamza Khan, a 9th-grade student at Delhi Model Virtual School (DMVS), driven by a deep passion for technology and innovation.  
 
+As the founder of PyGen & Co., I lead its subsidiary companies PyGen Labs and PyGen Institute, each focused on different facets of digital growth and innovation. PyGen Labs is dedicated to launching apps and tools, while PyGen Institute promotes learning and development.  
+
+Currently, my active products include:  
+
+- **ProjXs**: A productivity platform designed to manage notes and ideas effectively.  
+- **SOLVEXA**: A SaaS-based digital solutions agency specializing in website creation and other online services.  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hamzakhan_7.0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ameerhamzakha07@gmail.com) 
